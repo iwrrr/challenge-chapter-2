@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorIconActive">#02860C</color>
+    <color name="colorIconInactive">#CBCBCB</color>
+
+    <color name="colorAccent">#484848</color>
+    <color name="colorGreen">#01870C</color>
+    <color name="colorGopay">#0081A0</color>
+    <color name="colorLightGreen">#3AB824</color>
+    <color name="colorStroke">#dddddd</color>
 </resources>

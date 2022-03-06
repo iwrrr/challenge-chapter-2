@@ -13,4 +13,18 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Theme.Challenge.Gojek" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/colorGreen</item>
+    </style>
+
+    <style name="Theme.Challenge.Tokopedia" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Search">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColorHint">#7D7D7D</item>
+    </style>
+
 </resources>

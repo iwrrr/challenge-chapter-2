@@ -10,7 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Challenge">
         <activity
-            android:name=".MainActivity"
+            android:name=".modules.gojek.ui.GojekActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Challenge.Gojek" />
+        <activity
+            android:name=".modules.main.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
